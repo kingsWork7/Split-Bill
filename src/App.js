@@ -70,7 +70,9 @@ export default function App() {
   }
 
   return (
+
     <div className="app">
+      <h1>LET'S SPLIT THE BILLS</h1>
       <div className="sidebar">
         {/* Display the list of friends and handle friend selection. */}
         <FriendsList
